@@ -1,4 +1,4 @@
-# ToDo List com Spring Boot
+# Task com Spring Boot
 
 Este é um projeto de exemplo de uma aplicação de lista de tarefas (ToDo List) construída com o Spring Boot. Ele demonstra como criar uma aplicação Java web usando o Spring Boot, Spring Web, Spring Data JPA e Spring WebFlux.
 
