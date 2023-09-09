@@ -29,11 +29,11 @@ mvn spring-boot:run
 Acesse a aplicação no navegador em http://localhost:8080.
 
 ## Endpoints
-- GET /todos: Retorna a lista de tarefas.
-- POST /todos: Cria uma nova tarefa.
-- GET /todos/{id}: Retorna os detalhes de uma tarefa específica.
-- PUT /todos/{id}: Atualiza uma tarefa existente.
-- DELETE /todos/{id}: Exclui uma tarefa.
+- GET /todo: Retorna a lista de tarefas.
+- POST /todo: Cria uma nova tarefa.
+- GET /todo/{id}: Retorna os detalhes de uma tarefa específica.
+- PUT /todo/{id}: Atualiza uma tarefa existente.
+- DELETE /todo/{id}: Exclui uma tarefa.
 
 ## Dependências Principais
 
