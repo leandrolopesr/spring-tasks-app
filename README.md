@@ -40,7 +40,7 @@ Acesse a aplicação no navegador em http://localhost:8080.
 - **Spring Boot DevTools**  - O Spring Boot DevTools acelera o desenvolvimento com reinicialização automática e LiveReload.
 - **Lombok** - biblioteca Java que reduz a verbosidade do código, gerando automaticamente getters, setters, construtores e outros métodos comuns por meio de anotações.
 - **MySQL Driver** - Essa dependência é fundamental para acessar e manipular dados no banco de dados MySQL.
-- **Validation** (Bean Validation com Hibernate Validator) - Nos permite definir regras de validação. Podemos garantir que os campos obrigatórios não estejam vazios e que as datas sejam válidas.
+- **Validation (Bean Validation com Hibernate Validator)** - Nos permite definir regras de validação. Podemos garantir que os campos obrigatórios não estejam vazios e que as datas sejam válidas.
 - **Spring Web** - Este módulo é usado para criar endpoints da web e controladores para manipular solicitações HTTP.
 - **Spring Reactive Web** - Nos permite construir e testar nossos recursos de forma reativa, o que é uma vantagem, especialmente se desejamos escalá-lo no futuro ou lidar com tarefas em tempo real.
 - **Spring Data JPA** - Esta dependência é usada para criar repositórios e acessar bancos de dados SQL com facilidade.
